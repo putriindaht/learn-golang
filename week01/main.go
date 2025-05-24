@@ -14,7 +14,7 @@ func main() {
 	fmt.Println(addedNumber, "-> added")
 
 	// Divide Number
-	devidedNumber := divide.Bagi(2, 6)
+	devidedNumber := divide.Bagi(12, 6)
 	fmt.Println(devidedNumber, "-> divided")
 
 	// Variadic
